@@ -1,0 +1,6 @@
+name = "denyer-dr-clips-gateway"
+main = "src/index.js"
+compatibility_date = "2026-11-21"
+
+[vars]
+# Set BACKEND_URL in Worker Variables. Set APP_ACCESS_TOKEN and BACKEND_APP_TOKEN as secrets.
